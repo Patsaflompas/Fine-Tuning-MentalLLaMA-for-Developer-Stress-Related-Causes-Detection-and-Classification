@@ -1,3 +1,3 @@
-# Thesis-LLM-Eval-Mental
+# Thesis-LLM-Fine-Tune-Mental
 
-https://www.kaggle.com/code/emmanouillytrivis/thesismentalllama
+[https://colab.research.google.com/drive/1L9YyDijKYoKwnAqMQ29LB55Bw9Mp_LSk?usp=sharing]
